@@ -1,0 +1,3 @@
+module github.com/cfigueroab91/pokedexcli
+
+go 1.27.4
